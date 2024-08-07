@@ -6,7 +6,8 @@ texto menor;
 Teste status
 Teste Badge: 
 
-![Static Badge](https://img.shields.io/badge/Teste%20de%20Badge)
+![GitLab Stars](https://img.shields.io/gitlab/stars/:project)
+
 
 
 
