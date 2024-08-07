@@ -6,8 +6,8 @@ texto menor;
 Teste status
 Teste Badge: 
 
-[(https://img.shields.io/codecov/c/github/usuario/repo)](https://img.shields.io/badge/Teste%20de%20Badge
-)
+![Static Badge](https://img.shields.io/badge/Teste%20de%20Badge)
+
 
 
 
