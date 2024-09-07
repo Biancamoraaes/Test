@@ -1,8 +1,8 @@
-#Texto maior
-texto menor;
+#Texto m
+text menor;
 </head>
 .
-<h2> Texto médio no head em h2 </h2>
+<h2> Texto médio head h2 </h2>
 
 Teste status
 Teste Badge: 
