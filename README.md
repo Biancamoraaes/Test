@@ -2,12 +2,12 @@
 <html lang="en">
     <head>
         <title>
-            hello, title 
+             title 
         </title>
     </head>
     <body>
         <h1> Título 1</h1>
-       <p>hello, body </p> 
+       <p> body </p> 
        <h2> Título 2 </h2>
        <p> Hello again</p>
        <ul> <li> pequena lista </li> <li> sem ordem</li></ul>
