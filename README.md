@@ -6,7 +6,7 @@
         </title>
     </head>
     <body>
-        <h1> Título </h1>
+        <h1> Title </h1>
        <p> body </p> 
        <h2> Título 2 </h2>
        <p> Hello again</p>
