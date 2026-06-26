@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <title>
-             Mod
+             Title
         </title>
     </head>
     <body>
