@@ -7,7 +7,7 @@
     </head>
     <body>
         <h1> Title </h1>
-       <p> body </p> 
+       <p> body. </p> 
        <h2> Título 2 </h2>
        <p> Hello again</p>
        <ul> <li> pequena lista </li> <li> sem ordem</li></ul>
