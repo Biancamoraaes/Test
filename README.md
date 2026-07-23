@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <title>
-             Title
+            - Title
         </title>
     </head>
     <body>
